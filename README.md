@@ -6,8 +6,9 @@ game played with a shuffled deck of eighty-one cards and shows the results.
 - Ruby
 
 ### To play:
+
 ```
-$ ./playset
+$ ruby playset
 ```
 
 ### To test
