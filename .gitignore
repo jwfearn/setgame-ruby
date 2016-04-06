@@ -1,0 +1,9 @@
+.bundle
+.DS_Store
+.env
+.idea/
+binstubs/
+log/
+spec/results/
+tmp/
+vendor
